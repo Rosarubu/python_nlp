@@ -1,2 +1,2 @@
 # python_nlp
-nlp learning
+nlp learning, some codes found online
